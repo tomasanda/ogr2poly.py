@@ -6,7 +6,7 @@ Python3 support
 -----
 
 Converts any of the GDAL OGR Vector Formats to an OSM Poly File (e.g geojson to poly file).
-See http://www.gdal.org/ogr/ogr_formats.html
+See https://gdal.org/drivers/vector/index.html
 
 -----
 
